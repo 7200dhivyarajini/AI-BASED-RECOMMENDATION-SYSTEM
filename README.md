@@ -67,4 +67,4 @@ A Java program that:
 
 **OUTPUT**:
 
-![Image](https://github.com/user-attachments/assets/a6ae54c0-2b03-41dc-9ccd-f32d8a1380bd)
+![Image](https://github.com/user-attachments/assets/41c90237-0e13-44a4-8c36-38a3b925b24f)
