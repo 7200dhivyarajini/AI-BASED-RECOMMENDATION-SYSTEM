@@ -65,4 +65,6 @@ A Java program that:
 - Includes proper error handling and logging.  
 - Optionally provides a GUI for improved usability.
 
--   
+**OUTPUT**:
+
+![Image](https://github.com/user-attachments/assets/a6ae54c0-2b03-41dc-9ccd-f32d8a1380bd)
